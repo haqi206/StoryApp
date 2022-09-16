@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Submission2</string>
+    <string name="tvLogin">Please login first</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="login">LOGIN</string>
+    <string name="tvAskAccount">Didn\'\t have an account?</string>
+    <string name="registerUnderlined"> <u>REGISTER</u></string>
+    <string name="register">REGISTER</string>
+    <string name="tvRegister">Fill all the blank!</string>
+    <string name="avatar">avatar</string>
+    <string name="logout">Logout</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">write description</string>
+    <string name="upload">UPLOAD</string>
+    <string name="uploaded_by">Uploaded by:</string>
+    <string name="descriptionTitle">Description:</string>
+    <string name="dummy_description">zzzzzz</string>
+    <string name="uploaded_photo">Uploaded Photo</string>
+    <string name="failedRetrofit">Failed instance Retrofit</string>
+    <string name="pwError">Your password must be at least 6 character</string>
+    <string name="succesRegister">Register Succes</string>
+    <string name="storyActivityTitle">List Story</string>
+    <string name="addStory">Add Your Story</string>
+    <string name="inputFile">Insert your image first.</string>
+    <string name="derailActivityTitle">Detail Story</string>
+    <string name="language">Language</string>
+    <string name="emailError">Email format invalid</string>
+    <string name="permissiondenied">Didn\'\t get the permission.</string>
+    <string name="maps">maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="styleFailed">Style parsing failed.</string>
+    <string name="styleError">\"Can\'t find style. Error: \"</string>
+
+</resources>

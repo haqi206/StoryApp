@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission1</string>
+    <string name="tvLogin">Silahkan Masuk terlebih dahulu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Nama</string>
+    <string name="login">Masuk</string>
+    <string name="tvAskAccount">Tidak memiliki akun?</string>
+    <string name="registerUnderlined"> <u>DAFTAR</u></string>
+    <string name="register">DAFTAR</string>
+    <string name="tvRegister">Isi semua kolom!</string>
+    <string name="avatar">avatar</string>
+    <string name="logout">Keluar</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="description">Tulis deskripsi</string>
+    <string name="upload">UNGGAH</string>
+    <string name="uploaded_by">Di unggah oleh:</string>
+    <string name="descriptionTitle">Deskirpsi:</string>
+    <string name="dummy_description">zzzzzz</string>
+    <string name="uploaded_photo">Foto yang di unggah</string>
+    <string name="failedRetrofit">Gagal instance Retrofit</string>
+    <string name="pwError">Password anda harus mengandung minimal 6 huruf</string>
+    <string name="succesRegister">Akun berhasil didaftar</string>
+    <string name="storyActivityTitle">Daftar Cerita</string>
+    <string name="addStory">Tambah cerita anda</string>
+    <string name="inputFile">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="derailActivityTitle">Detail Cerita</string>
+    <string name="language">Bahasa</string>
+    <string name="emailError">Format email tidak tepat</string>
+    <string name="permissiondenied">Tidak mendapatkan permission.</string>
+    <string name="maps">peta</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="styleFailed">Gagal parsing tampilan.</string>
+    <string name="styleError">Tidak menemukan tampilan. Kesalahan: \"</string>
+</resources>
